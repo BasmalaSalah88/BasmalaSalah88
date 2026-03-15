@@ -8,7 +8,7 @@ I enjoy building **scalable software platforms, AI-powered systems, and real-wor
 
 ---
 
-# 👩‍💻 About Me
+#  About Me
 
 -  Computer Science student at Zewail City  
 -  Interested in **Full-Stack Development & AI Systems**  
