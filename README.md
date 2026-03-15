@@ -10,14 +10,14 @@ I enjoy building **scalable software platforms, AI-powered systems, and real-wor
 
 # 👩‍💻 About Me
 
-- 🎓 Computer Science student at Zewail City  
-- 💻 Interested in **Full-Stack Development & AI Systems**  
-- 🧠 Experienced in **React, Node.js, Python, MongoDB**  
-- 🔬 Building projects combining **software engineering + intelligent systems**
+-  Computer Science student at Zewail City  
+-  Interested in **Full-Stack Development & AI Systems**  
+-  Experienced in **React, Node.js, Python, MongoDB**  
+-  Building projects combining **software engineering + intelligent systems**
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 ### ✈️ Secure Flight Booking System
 Full-stack flight reservation platform.
@@ -72,35 +72,26 @@ Features
 
 ---
 
-# 🧰 Tech Stack
+# Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,mongodb,mysql,docker,git,linux)
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=BasmalaSalah88&show_icons=true&theme=tokyonight)
 
 ---
 
-# 🔥 GitHub Streak
 
-![Streak](https://streak-stats.demolab.com/?user=BasmalaSalah88&theme=tokyonight)
 
----
-
-# 🧠 Most Used Languages
+#  Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BasmalaSalah88&layout=compact&theme=tokyonight)
 
 ---
 
-# 🏆 GitHub Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=BasmalaSalah88&theme=tokyonight)
-
----
 
 # 🌐 Connect With Me
 
