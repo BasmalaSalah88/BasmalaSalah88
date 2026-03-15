@@ -1,4 +1,4 @@
-# Hi 👋 I'm Basmala Salah Mohamed
+# Hi 👋 I'm Basmala Salah 
 
 Computer Science student at **Zewail City of Science and Technology** with strong interests in **software engineering, intelligent systems, and full-stack application development**.
 
@@ -32,7 +32,7 @@ Git • Docker • Linux • Postman • VS Code
 
 ---
 
-## 🚀 Selected Projects
+## 🚀Projects
 
 ### ✈️ Secure Flight Booking System
 Full-stack flight reservation platform.
