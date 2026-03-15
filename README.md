@@ -1,155 +1,66 @@
-# Hi 👋 I'm Basmala Salah 
+# Hi 👋 I'm Basmala Salah Mohamed
 
-Computer Science student at **Zewail City of Science and Technology** with strong interests in **software engineering, intelligent systems, and full-stack application development**.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineering+Student;Full+Stack+Developer;AI+and+Intelligent+Systems;React+%7C+Node.js+%7C+Python&center=true&width=500&height=50)]
 
-I enjoy building systems that combine **robust backend architecture, modern frontend interfaces, and intelligent data processing**.
+Computer Science student at **Zewail City of Science and Technology** passionate about **software engineering, full-stack development, and intelligent systems**.
 
-Currently exploring how **web platforms, machine learning, and embedded systems** can work together to solve real-world problems.
-
----
-
-## 🔧 Technical Skills
-
-**Languages**
-
-Python • C • C++ • Java • JavaScript • SQL
-
-**Frontend**
-
-React • TailwindCSS • Bootstrap • React Router • Chart.js
-
-**Backend**
-
-Node.js • Express.js • REST APIs • JWT Authentication
-
-**Databases**
-
-MongoDB • MySQL
-
-**Tools**
-
-Git • Docker • Linux • Postman • VS Code
+I enjoy building **scalable platforms, data-driven applications, and AI-powered solutions**.
 
 ---
 
-## 🚀Projects
+# 🚀 Tech Stack
 
-### ✈️ Secure Flight Booking System
-Full-stack flight reservation platform.
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E34A86?style=for-the-badge&logo=java&logoColor=white)
 
-**Tech**
-React • Node.js • Express • MongoDB
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-Features
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-• JWT authentication  
-• Email verification system  
-• Flight search and booking  
-• Seat availability management  
-• Secure backend APIs
-
----
-
-### 📊 Personal Finance Analytics Dashboard
-
-Interactive financial tracking dashboard with real-time analytics.
-
-**Tech**
-
-React • TailwindCSS • Chart.js • JSON Server
-
-Features
-
-• Income / expense analytics  
-• Data visualization charts  
-• Advanced search & filtering  
-• Reusable React components  
-• Responsive UI
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 🛒 Full-Stack E-Commerce Platform
+# 📊 GitHub Stats
 
-Amazon-style e-commerce web application.
-
-**Tech**
-
-PHP • MySQL • Bootstrap • JavaScript
-
-Features
-
-• Authentication system  
-• Product catalog management  
-• Order processing  
-• Dynamic product search
+![Basmala's GitHub stats](https://github-readme-stats.vercel.app/api?username=BasmalaSalah88&show_icons=true&theme=tokyonight)
 
 ---
 
-### 🍔 YumYumHub – Smart Food Ordering Platform
+# 🔥 GitHub Streak
 
-Food ordering system with secure online payments.
-
-**Tech**
-
-Node.js • MongoDB • Stripe API
-
-Features
-
-• Online payment integration  
-• Restaurant & menu browsing  
-• Order management system
+![GitHub Streak](https://streak-stats.demolab.com/?user=BasmalaSalah88&theme=tokyonight)
 
 ---
 
-### 🌍 AirAware – AI Air Quality Monitoring
+# 🧠 Most Used Languages
 
-AI platform for analyzing environmental pollution using satellite and sensor data.
-
-**Tech**
-
-Python • Machine Learning • Satellite Data
-
-Features
-
-• Pollution prediction models  
-• Environmental data analysis  
-• Interactive visualization dashboards
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BasmalaSalah88&layout=compact&theme=tokyonight)
 
 ---
 
-### 🚗 ADAS Smart Vehicle Prototype
+# 📈 Contribution Graph
 
-Miniature advanced driver assistance system.
-
-**Tech**
-
-Arduino • Sensors • Embedded Systems • TinyML
-
-Features
-
-• Collision detection  
-• Automatic headlights  
-• Driver safety monitoring  
-• Real-time telemetry
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BasmalaSalah88&theme=tokyo-night)
 
 ---
 
-## 📈 GitHub Stats
+# 👀 Profile Views
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BasmalaSalah88&show_icons=true&theme=tokyonight)
-
----
-
-## 🧠 Currently Learning
-
-Advanced Software Architecture  
-Machine Learning Systems  
-Distributed Systems  
-Embedded Intelligence
+![](https://komarev.com/ghpvc/?username=BasmalaSalah88&color=blue)
 
 ---
 
-## 🌐 Connect
+# 🌐 Connect
 
-LinkedIn  
-www.linkedin.com/in/basmala-salah-35579b2b7
+[LinkedIn](https://www.linkedin.com/in/basmala-salah-35579b2b7)
